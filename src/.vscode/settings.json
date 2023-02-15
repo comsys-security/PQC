@@ -1,0 +1,8 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "/opt/nfast/java/classes/nCipherKM.jar",
+        "/opt/nfast/pqsdk/bin/java/pqsdk.jar",
+        "/opt/nfast/pqsdk/bin/java/pqsdk-0.1.1.jar"
+    ]
+}

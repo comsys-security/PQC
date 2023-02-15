@@ -1,0 +1,9 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "/opt/nfast/pqsdk/bin/java/pqsdk-0.1.1.jar",
+        "/opt/nfast/java/classes/nCipherKM.jar"
+    ]
+}
